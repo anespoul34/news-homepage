@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, 
+body {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+div,
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  cursor: pointer;
+  outline-color: transparent;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.attribution {
+  width: 100%;
+  text-align: center;
+  font-size: 1rem;
+  margin: 10px 0;
+}
+.attribution p {
+  text-align: center;
+  color: var(--darker);
+}
+.attribution a {
+  text-decoration-color: var(--primary);
+  text-decoration-thickness: from-font;
+  text-decoration-style: wavy;
+  text-underline-offset: 0.12em;
+  font-weight: 700;
+  color: var(--secondary);
+}
+.attribution a:hover {
+  color: var(--primary);
+}
