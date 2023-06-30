@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![header](https://github.com/anespoul34/new-homepage/blob/main/assets/images/screenshot.png)
+![header](https://github.com/anespoul34/news-homepage/blob/main/assets/images/screenshot.png)
 
 ### Links
 
