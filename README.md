@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [link](link)
-- Live Site URL: [link](link)
+- Solution URL: [link](https://www.frontendmentor.io/solutions/new-homepage-with-htmlcssjs-QB9s6TiBhg)
+- Live Site URL: [link](https://news-homepage-eta-eight.vercel.app/)
 
 ## My process
 
