@@ -236,6 +236,9 @@ main footer ul li .container {
   main {
     max-width: 1125px;
   }
+  main footer ul li .container {
+    padding: 0 20px 0 20px;
+  }
   section {
     display: grid;
     grid-template-columns: 2fr 1fr;
